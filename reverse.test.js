@@ -1,9 +1,9 @@
 const reverse = require('./reverse');
 
-test('return string reversed', () => {
+test('return "Hello" reversed to "olleh"', () => {
   expect(reverse('hello')).toBe('olleh');
 });
 
-test('return string with first character capitalized', () => {
-  expect(capitalize('micrOverse')).toBe('esrevOrcim');
+test('return "micrOverse" reversed to "esrevOrcim"', () => {
+  expect(reverse('micrOverse')).toBe('esrevOrcim');
 });
