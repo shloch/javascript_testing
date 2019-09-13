@@ -1,7 +1,13 @@
 const functions = require('./analyze');
 
 test('takes an array of numbers and returns an object', () => {
-  expect(functions([1, 2, 3, 4, 5])).toEqual({ average: 3, min: 1, max: 5, length: 5 })
+  let solution = {
+    average: 3,
+    min: 1,
+    max: 5,
+    length: 5,
+  };
+  expect(functions([1, 2, 3, 4, 5])).toEqual(solution);
 });
 
 test('takes an array of numbers and returns an object with property average, min, max, length ', () => {
