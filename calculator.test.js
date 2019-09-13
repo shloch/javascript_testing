@@ -27,5 +27,3 @@ test('DIVISION: 2 / 3 should be closed to  0.66', () => {
 test('MULTIPLICATION: 9 * 1000 should be 9000', () => {
   expect(functions.multiply(9, 1000)).toBeCloseTo(9000);
 });
-
-
