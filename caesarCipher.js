@@ -1,8 +1,8 @@
 const caesarCipher = (str, amount) => {
   if (amount < 0)
-    return caesarShift(str, amount + 26);
+    return caesarCipher(str, amount + 26);
   let output = '';
-  for (var i = 0; i < str.length; i++) {
+  for (let i = 0; i < str.length; i++) {
     let c = str[i];
     if (c.match(/[a-z]/i)) {
       const code = str.charCodeAt(i);
