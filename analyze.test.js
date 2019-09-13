@@ -7,7 +7,8 @@ test('takes an array of numbers and returns an object', () => {
       min: 1,
       max: 5,
       length: 5,
-    })
+    }
+  )
 });
 
 test('takes an array of numbers and returns an object with property average, min, max, length ', () => {
