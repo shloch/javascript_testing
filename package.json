@@ -18,6 +18,8 @@
   "homepage": "https://github.com/shloch/javascript_testing#readme",
   "devDependencies": {
     "eslint": "^6.3.0",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
   }
 }
