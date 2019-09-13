@@ -1,7 +1,7 @@
 const functions = require('./analyze');
 
 test('takes an array of numbers and returns an object', () => {
-  let solution = {
+  const solution = {
     average: 3,
     min: 1,
     max: 5,
