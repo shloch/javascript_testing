@@ -5,3 +5,4 @@ linters:
 files:
     ignore:
         - 'eslint.config'
+        - '.eslintrc.js'
