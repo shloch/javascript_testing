@@ -1,0 +1,25 @@
+{
+  "name": "javascript_testing",
+  "version": "1.0.0",
+  "description": "testing with JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shloch/javascript_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shloch/javascript_testing/issues"
+  },
+  "homepage": "https://github.com/shloch/javascript_testing#readme",
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "jest": "^24.9.0",
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
+  }
+}
