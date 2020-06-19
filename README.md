@@ -13,5 +13,12 @@ Practicing testing in Javascript using JEST testing framework
 
 ## Contributors
 
-- [Louis SHEY](https://github.com/shloch_)
-- [Terver Aosu](https://github.com/truetechcode)
+### 👤 **SHEY Louis CHIA**
+
+- Github: [shloch](https://github.com/shloch)
+- Twitter: [@shloch](https://twitter.com/shloch)
+- Linkedin: [/in/shey-louis-chia](https://www.linkedin.com/in/shey-louis-chia)
+- Email: shloch2007@yahoo.fr
+
+## 👤 **Terver Aosu**
+- Terver Aosu _https://github.com/truetechcode_
