@@ -11,6 +11,10 @@ Practicing testing in Javascript using JEST testing framework
 
 ```npm test```
 
+## Screenshot
+
+![alt text](https://github.com/shloch/javascript_testing/blob/development/screenshot.png)
+
 ## Contributors
 
 ### 👤 **SHEY Louis CHIA**
