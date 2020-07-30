@@ -26,3 +26,10 @@ Practicing testing in Javascript using JEST testing framework
 
 ## 👤 **Terver Aosu**
 - Terver Aosu _https://github.com/truetechcode_
+
+## Acknowledgements
+- https://reactjs.org/
+- https://www.theodinproject.com/
+- https://javascript.info/
+- https://nodejs.org/
+- https://jestjs.io/
